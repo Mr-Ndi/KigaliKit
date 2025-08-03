@@ -1,23 +1,37 @@
-License
+## 📄 License
 
-Proprietary License - [Mr-Ndi](https://github.com/Mr-Ndi)
+**Proprietary License — [Mr-Ndi](https://github.com/Mr-Ndi)**  
+© 2025 [Mr. Ninshuti Poli Ndiramiye](https://mr-ndi.github.io/me/). All rights reserved.
 
-Copyright © 2025 [Mr Ninshuti Poli Ndiramiye](https://mr-ndi.github.io/me/). All rights reserved.
+This software — including all code, documentation, and related assets — is the sole intellectual property of Mr-Ndi, developed for the KigaliKit project. By using or accessing this codebase, you agree to the following terms:
 
-This software and its associated files are the exclusive property of [Mr-Ndi](https://github.com/Mr-Ndi). By accessing, downloading, or using this codebase, you agree to the following terms:
-Permissions
+---
 
-    Internal use by authorized TekinovaHub developers or partners.
-    Commercial use only with written approval.
+### Allowed
 
-Restrictions
+- Personal or internal use for educational or productivity purposes
+- Running or deploying the code via Docker or local environments as described in the documentation
+- Referencing or showcasing the project with proper attribution
 
-    No redistribution, sublicensing, or sale without written consent.
-    No modification or reverse engineering for external use.
-    No use of code, logic, structure, or database schema in other products.
+---
 
-Disclaimer
+### Not Allowed
 
-This software is provided "as is" without warranties of any kind, either express or implied. TekinovaHub is not liable for any damages arising from the use of this software.
+- Redistributing the codebase or any part of it in public or private repositories
+- Commercial usage without explicit written permission
+- Copying, modifying, or repurposing code for derivative tools or products
+- Extracting or mimicking core logic, structure, or the Airtable integration flow for external use
 
-For custom licensing, partnerships, or commercial usage, please contact: onlythenotes@gmail.com
+---
+
+### Disclaimer
+
+This software is provided **“as is”**, without any warranties of any kind — express or implied.  
+Use it at your own risk. The author assumes no liability for loss, misuse, or service disruption caused by use of this tool.
+
+---
+
+### Need Permission?
+
+For commercial licensing, feature requests, or collaboration inquiries, contact:  
+📧 **onlythenotes@gmail.com**
