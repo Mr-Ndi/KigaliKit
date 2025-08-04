@@ -114,7 +114,7 @@ Built with ❤️ by [Mr-Ndi](https://github.com/Mr-Ndi)
 
 ## 📄 License
 
-This project is licensed under a **Custom License**. See the [`LICENSE`](LICENSE) file for full terms.
+This project is licensed under a **Custom License**. See the [`LICENCE`](LICENCE.md) file for full terms.
 
 ---
 
