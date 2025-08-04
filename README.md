@@ -109,6 +109,7 @@ docker run --env-file .env ajanyu
 Built with ❤️ by [Mr-Ndi](https://github.com/Mr-Ndi)
 🌐 [Personal Website](https://mr-ndi.github.io/me/)
 🔗 [LinkedIn](https://www.linkedin.com/in/mr-ndi)
+🔗 [Medium blog Post](https://medium.com/@ni-poli/solving-the-airtable-python-pat-puzzle-lessons-from-ajanyu-kigalikit-02beee22cb77).
 
 ---
 
